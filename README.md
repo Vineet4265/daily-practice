@@ -7,4 +7,5 @@ Daily practice notebooks on NumPy, Pandas, Supervised Learning, Unsupervised Lea
 - **pandas:** Pandas tutorial
 - **supervised-learning:** Linear, Lasso and Logistic Regression, KNN, Naive Bayes, Decision Trees, Random Forest, SVC and SVR, AdaBoost, Gradient Boosting, XGBoost, ensemble methods
 - **unsupervised-learning:** K-Means, Hierarchical Clustering, DBSCAN, PCA, Isolation Forest
-- **deep-learning:** neural network basics
+- **DeepLearning:** neuron basics, ANN for classification and regression, CNN on CIFAR-10
+- Datasets and saved models are not included in this repository.
