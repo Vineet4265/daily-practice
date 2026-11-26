@@ -4,3 +4,5 @@ __pycache__/
 .env
 DeepLearning/CNN/data/
 *.pt
+DeepLearning/RAG/data/
+*.pdf
